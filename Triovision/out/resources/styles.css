@@ -1,0 +1,25 @@
+/* styles.css for PlateauView */
+
+/* Customize button appearance */
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #eeeeee;
+    -fx-border-color: #cccccc;
+}
+
+/* Style specific colors for each pion color */
+.pion-rouge {
+    -fx-background-color: red;
+}
+
+.pion-bleu {
+    -fx-background-color: blue;
+}
+
+.pion-vert {
+    -fx-background-color: green;
+}
+
+.pion-jaune {
+    -fx-background-color: yellow;
+}

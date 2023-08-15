@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Button?>
+
+<GridPane alignment="center" hgap="5" vgap="5" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+    <Button fx:id="case00" prefWidth="50" prefHeight="50" stylesheets="@styles.css" />
+    <Button fx:id="case01" prefWidth="50" prefHeight="50" stylesheets="@styles.css" />
+    <!-- ... Repeat for other buttons and cells on the grid -->
+</GridPane>
